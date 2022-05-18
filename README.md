@@ -1,2 +1,2 @@
 # EAL
-Employee Annual Leave Calculator For Organizations
+Employee Annual Leave Calculator for small companies
